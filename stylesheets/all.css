@@ -1,0 +1,12 @@
+/* line 3, /Users/bkerley/Documents/golden-flag/source/stylesheets/all.css.sass */
+body {
+  background-color: #080820;
+  background-image: url("/images/blue-denham.png");
+  color: #ffa;
+  margin: 0;
+  padding: 0; }
+  /* line 10, /Users/bkerley/Documents/golden-flag/source/stylesheets/all.css.sass */
+  body #content {
+    width: 900px;
+    margin: 0 auto;
+    padding: 1em; }
