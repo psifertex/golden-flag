@@ -28,3 +28,5 @@ body {
     /* line 33, /Users/bkerley/Documents/golden-flag/source/stylesheets/all.css.sass */
     body #content #main {
       padding-right: 1em; }
+a:link, a:visited{
+	color: #c6a700;
