@@ -3,6 +3,8 @@
 body {
   background-color: #080820;
   background-image: url("../images/flags.jpg");
+  background-size: auto, cover;
+  background-attachment: fixed;
   color: #f5e8a3;
   margin: 0;
   padding: 0;
